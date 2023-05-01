@@ -1,2 +1,2 @@
 #!/bin/bash
-/pkissat -c=30 -shr-sleep=500000 -shr-lit=1500 -simp -initshuffle -shr-strat=2 -horde $1
+/pkissat -c=28 -shr-sleep=500000 -shr-lit=1500 -simp -initshuffle -shr-strat=2 -horde -str $1
